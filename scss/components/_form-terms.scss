@@ -1,0 +1,13 @@
+.form-terms{
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin:0 auto;
+    max-width: 220px;
+    text-align: center;
+
+    &__link{
+        display: block;
+        margin: 0 auto 24px;
+    }
+}
